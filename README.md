@@ -26,7 +26,7 @@ This project was built to meet the requirements of the Think Sage Round 2 assign
 - **JavaScript**: Adds interactivity (e.g., hamburger menu toggle, FAQ accordion, form validation).
 - **Font Awesome**: Icons for visual enhancement.
 - **Google Fonts**: Poppins font for a modern, readable typography.
-- **Netlify**: Hosting for the live demo.
+- **Netlify**: Hosting for the live deployement.
 
 ## Setup Instructions
 To run this project locally, follow these steps:
@@ -64,4 +64,4 @@ UX-Prodigy-Landing-Page/
 ```
 
 ---
-© 2025 UX Prodigy Landing Page. Built for Think Sage Round 2 Assignment. Done By: [naveen@example.com](mailto:naveen@example.com)
+© 2025 UX Prodigy Landing Page. Built for Think Sage Round 2 Assignment. Done By: [naveenyd06@gmail.com](mailto:naveenyd06@gmail.com)
